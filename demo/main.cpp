@@ -2,7 +2,7 @@
 
 int main() {
 
-	SPDFast::hello_SPDFast();
-	
+	SPDFast::renderPDF("test.pdf");
+
 	return 0;
 }

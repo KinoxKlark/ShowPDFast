@@ -3,7 +3,7 @@
 
 namespace SPDFast {
 
-	void hello_SPDFast();
+	void renderPDF(char* filename);
 
 };
 
