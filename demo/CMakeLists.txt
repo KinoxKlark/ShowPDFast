@@ -1,5 +1,6 @@
 set(DEMO_FILES
   main.cpp
+  dummy.cpp
 )
 
 add_executable(demo ${DEMO_FILES})
