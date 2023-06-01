@@ -28,6 +28,11 @@ From the repo root run
 vcpkg install fontconfig freetype libxml2 openssl libjpeg-turbo libpng tiff zlib
 ```
 
+We also use `raylib` for demos
+```
+vcpkg install raylib
+```
+
 ### Build
 
 Then config the build using CMake
